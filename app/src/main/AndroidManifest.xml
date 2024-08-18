@@ -12,14 +12,8 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.BookMyShow"
         tools:targetApi="31">
-        <activity
-            android:name=".IntroductionSplash"
-            android:exported="false"
-            android:label="@string/title_activity_introduction_splash"
-            android:theme="@style/Theme.BookMyShow" />
-        <activity
-            android:name=".Authentication"
-            android:exported="false" />
+
+
         <activity
             android:name=".MainActivity"
             android:exported="true"
