@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "346738230821",
+    "firebase_url": "https://bookmyshow-fab1d-default-rtdb.firebaseio.com",
+    "project_id": "bookmyshow-fab1d",
+    "storage_bucket": "bookmyshow-fab1d.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:346738230821:android:f0f2ec9187da0ff916a1cc",
+        "android_client_info": {
+          "package_name": "uk.ac.tees.mad.D3662700"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDf4BGa27V2wCmQ1BcE6HU36rb6iZ-mYnQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
